@@ -1,0 +1,88 @@
+.navi {
+    display: flex;
+    justify-content: space-between;
+    margin: 20px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.button {
+
+    border-style: solid;
+    border-radius: 50px;
+    border-color: gray;
+    background-color: rgb(254, 254, 254);
+}
+hr{
+    size: 0.3px;
+}
+.glob {
+    padding-top: 20px;
+}
+
+.inputStyle {
+    background-color: rgb(254, 254, 254);
+    border-color: aliceblue;
+    border-style: hidden;
+}
+
+.titre {
+    font-size: 12px;
+
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.icon {
+    display: flex;
+    justify-content: space-between;
+    margin: 20px;
+}
+
+.photo1 {
+    display: flex;
+    justify-content: space-between;
+    margin: 20px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 14px;
+}
+
+
+.photo2 {
+    display: flex;
+    justify-content: space-between;
+    margin: 20px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 14px;
+}
+
+.menu {
+    justify-content: center;
+    padding: 15px;
+}
+
+.profil {
+    border: solid;
+    border-radius: 50px;
+    border-width: 1px;
+    color: rgb(149, 149, 149);
+}
+
+.iconPlace {
+
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.border {
+    border-radius: 15px;
+}
+
+.body {
+    padding-left: 50px;
+    padding-right: 50px;
+}
+
+h4 {
+    font-family: Arial, Helvetica, sans-serif;
+}
